@@ -17,6 +17,8 @@ public class PBOIF210119052Latihan26WaktuSaatIni {
         
         SimpleDateFormat format = new SimpleDateFormat("E, dd MMMM yyyy HH:mm:ss");
         System.out.println("Hari ini adalah hari : "+format.format(tanggal));
+        System.out.println("=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=");
+        System.out.println("Developed By Rizki Dwi Nugraha");
     }
     
 }
